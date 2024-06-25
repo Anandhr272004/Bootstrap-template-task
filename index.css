@@ -67,6 +67,10 @@
     border-radius: 7px;
     font-size:medium;
  }
+ .nowbook:hover{
+    color:white;
+    background-color: black;
+ }
 .trusted{
     text-align: center;
     padding-top: 60px;
