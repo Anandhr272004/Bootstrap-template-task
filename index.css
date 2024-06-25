@@ -1,0 +1,633 @@
+*{
+    padding:0px;
+    margin: 0px;
+    font-family: "Nunito", sans-serif;
+}
+.container-fluid1{
+    background-repeat: no-repeat;
+    background-image: url("./../Images/newnuntitled\ \(5\).png");
+    background-size: cover;
+    /* background-position-x: center; */
+  
+}
+.ab{
+    color:white;
+}
+.hero{
+    color:aliceblue;
+}
+ .navbar-collapse{
+    padding-left: 300px;
+ }
+ .words{
+    color:white;
+  font-optical-sizing:auto;
+  padding-top: 20px;
+ 
+  font-weight: bolder;font-size:52px;
+}
+.brand{
+    padding-top:12px;
+    color:white;
+}
+.ho{
+    color:white;
+    padding: 7px;
+}
+.fa-search{
+    color:white;
+}
+.book{
+    color:white;
+}
+.img{
+    width:470px;
+}
+.button{
+    margin: 0%;
+}
+.booknow{
+    color:black;
+     background-color: white;
+    width:25%;height:7%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:200;
+    border: 1px solid white;
+    border-radius: 7px;
+    font-size:medium;
+    /* margin-left: 38px; */
+}
+.trusted{
+    text-align: center;
+    padding-top: 60px;
+    font-weight: bolder;
+    font-style: normal;font-size: 18px;
+    word-spacing: 2px;
+}
+.topab{
+     height:40px;width:70%;
+    margin:0 auto;
+}
+.num{
+    color:darkmagenta;
+}
+.card-group{
+    height:95px;
+    /* border:1px solid purple; */
+    padding-left: 15px;
+    /* border: 2px solid green; */
+    /* border:1px solid red; */
+}
+.card-img-top{
+    width: 70%;
+    height:95px;
+    /* border:1px solid green; */
+}
+
+.Services{
+    padding-top: 80px;
+    text-align: center;
+    color:rgb(196,12,67);
+    /* margin-top: 180px; */
+    font-size: 17px;
+}
+.what{
+    font-weight: bolder;
+    font-size: 29px;
+    font-style: normal;
+    padding: 0%;
+    /* margin-top: 10px; */
+    text-align: center;
+}
+.lorem{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight:20px;
+    color:black;
+    
+    /* margin-top: 9px; */
+}
+.banner1{
+    width:99%;
+    /* border:1px solid red; */
+    margin: auto;
+}
+.hello4{
+    padding-top: 45px;
+}
+.hello5{
+
+    /* margin-top: 40px; */
+    padding-top: 25px;
+    box-shadow: 2px 2px 10px grey;
+}
+.opt{
+    font-size: 55px;
+    font-weight: bolder;
+    padding-left: 30px;
+}
+.opt1,
+.opt2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
+.opt3{
+    width:30%;
+    color:white;
+    font-size: 13px;
+    /* font-size: 12px; */
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(196,12,67);
+    border: 1px solid rgb(196,12,67);
+}
+.about{
+    font-size: 12px;
+    color: rgb(196,12,67);
+}
+.about1{
+    font-size: 32px;
+
+}
+.about2{
+    font-size: 13px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.discover1{
+    width:30%;
+    /* border:1px solid red; */
+    padding-left: 20px;
+    background-color: rgb(196,12,67);
+    border-radius: 3px;
+}
+.about3{
+    width:80%;
+    margin: auto;
+    border: 1px solid rgb(196,12,67);
+    background-color: rgb(196,12,67);
+    font-size: 12px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.hello7{
+    /* height: 190px; */
+    /* width:50%; */
+    /* border:4px solid red;  */
+     /* padding-top: 60px; */
+}
+  .number{
+    width:90%;
+    height:195px;
+    /* padding-top: 80px; */
+    /* border:1px solid red; */
+    margin: auto;
+  }
+  .card-body1{
+    /* height: 80px; */
+    padding-top: 10px;
+    text-align: center;
+    /* box-shadow: 1px 1px 2px gray; */
+  }
+  .card-title1{
+    color: rgb(196,12,67);
+    font-size: 37px;
+  }
+  .hello8{
+    /* padding-top: 120px; */
+  }
+  .why{
+    color:rgb(196, 12, 67);
+    font-family: "Nunito", sans-serif;
+    font-size: small;
+  }
+  .why1{
+    font-family: "Nunito", sans-serif;
+    font-size:30px;
+  }
+  .why2,
+  .why3{
+    color:black;
+    font-family:"Roboto", sans-serif ;
+  }
+  .dot{  
+    height:12px;
+    color:rgb(196, 12, 67);
+    background-color: rgb(196, 12, 67);
+    border-radius: 10px;
+  }
+  .discovermore{
+    width:25%;
+    height:40px;
+    border-radius: 7px;
+    background-color: rgb(196, 12, 67);
+    color: white;
+    border: 1px solid rgb(196,12,67);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .pro3{
+    box-shadow:  2px 2px 2px gray;
+  }
+  .bus1{
+    width: 216px;
+    height: 150px;
+    /* border: 1px solid red; */
+  }
+  .sidecols{
+    /* border: 1px solid blueviolet; */
+  }
+  .pro4{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .test1,
+   .test2,
+   .test3{
+    font-family: "Nunito", sans-seri;
+    text-align: center;
+   }
+   .test1{
+    color: rgb(196,12,67);
+   }
+   .test2{
+    font-size: 30px;
+   }
+   .test3{
+    font-family:"Roboto", sans-serif ;
+    padding-bottom: 60px;
+   }
+   .cou{
+    color: rgb(196, 12, 67);
+    font-family:"Roboto", sans-serif;
+    font-size: 25px;
+}
+.cour{
+    color:black;
+}
+.visually{
+    font-size:300%;
+    color:black;
+}
+.hello10{
+    margin-top: 100px;
+}
+.blog1{
+    font-family: "Nunito", sans-seri;
+    color:rgb(196,12,67);
+    text-align: center;
+}
+.blog2{
+    font-family: "Nunito", sans-seri;
+    text-align: center;
+    font-size: 30px;
+}
+.blog3{
+    text-align: center;
+}
+.carousel-fade{
+    margin-top: 60px;
+}
+.card-img-top1{
+    margin-left: 2px;
+    margin-right: 2px;
+    /* width: 30%; */
+}
+.container-fluid2{
+    margin-top: 40px;
+    /* border:1px solid greenyellow; */
+    background-color: rgba(25,18,52,255);
+    /* height: 540px; */
+}
+.nobi{
+    /* border:1px solid palegoldenrod; */
+}
+.card-img-top1{
+    /* border:1px solid red; */
+    /* height: 739px; */
+}
+.cardname{
+    text-align: center;
+    font-size: medium;
+}
+/* .card1{
+    border: 1px solid gold;
+    background-color: white;
+    width:60%;
+    height:90px;
+    margin: auto; */
+    .card1{
+        width: 80%;
+        /* border:1px solid red; */
+        background-color: white;
+        margin: 0 auto;
+    }
+
+/* } */
+.have,
+.btnhave1{
+    text-align: center;
+}
+.btnhave1{
+    border: 1px solid rgb(196, 12, 67);
+    /* width:15%; */
+    width:25%;
+    height:30px;
+    background-color: rgb(196, 12, 67);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.digi{
+    font-size: 19px;
+}
+.digi,
+.con,
+.com,
+.view,
+.sig{
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: "Nunito", sans-seri;
+}
+.con{
+    /* border: 1px solid red; */
+    margin-top: -10px;
+    /* color: aqua; */
+}
+.view,
+.sig,
+.com{
+    margin-top:-10px;
+}
+.textbox{
+    color:yellow;
+    width:70%;
+    height:40px;
+    color: black;
+    /* background-color: white; */
+}
+.digiwords{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+.emailad{
+    width:96%;
+    height:40px;
+    border:1px solid gray;  
+    background-color: white;
+    border-radius: 5px;
+}
+.emailaddress{
+    width:76%;
+    height:38px;
+    /* border:1px solid red; */
+    display: inline-block;
+    padding-top: 5px;
+    text-align: center;
+    float: left;
+}
+.message{
+    width:35px;
+     height:38px;
+     padding-left: 15px;
+     /* float: right; */
+
+}
+.emailsend{
+    display: inline-block;
+    width:24%;
+    height:38px;
+    /* font-size: 20px; */
+    float: right;
+    background-color:rgb(216, 28, 28);
+}
+.fa-phone{
+    color:white;
+}
+.loc{
+    /* border:1px solid red; */
+    padding-top: 15px;
+}
+.location{
+    width:10%;
+    height:28px;
+    color:white;
+}
+.fa-map-marker{
+    color:white;
+    font-size:18px;
+}
+.white{
+    color:white;
+}
+.fa-twitter{
+    color:white;
+}
+.yt{
+    color:black;
+    padding-left:10px;
+}
+.fa-google-plus{
+    color:white;
+    padding-left: 10px;
+}
+.fa-facebook-f{
+    width:10%;
+    height:8px;
+    color:white;
+}
+.last{
+    background-color:rgb(196,12,67) ;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
+.last1{
+    color:white;
+    text-align: center;
+}
+.all{
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Designed{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ @media screen and (max-width:768px) 
+ {
+        .navbar-brand{
+        float: left;
+        margin-left: 0%;
+        padding: 0px;
+    }
+    .img{
+    width:330px;
+    }
+    
+    .words{
+        font-size: 32px;
+    }
+    .booknow{
+         /* border:1px solid red; */
+        width: 30%;
+        height:23px;
+    }
+    .sec1{
+            height:720px;
+    }
+    .discover1{
+        width:37%;
+        /* border:1px solid red; */
+        padding-left: 20px;
+        background-color: rgb(196,12,67);
+    }
+    .about3{
+        width:80%;
+        margin: auto;
+        border: 1px solid rgb(196,12,67);
+        background-color: rgb(196,12,67);
+        font-size: 12px;
+        color: white;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    .sidecols{
+        /* width:min-content;
+        height:fit-content; */
+        padding-top: 10%;
+          /* border:1px solid greenyellow; */
+        padding-left: 10%;
+        }
+        .pro3{
+            margin-left: 25%;
+            /* align-items:flex-start; */
+
+            /* text-align-last: center; */
+            margin-top: 4%;
+        }
+        .have1{
+            border: 1px solid rgb(196, 12, 67);
+            width:25%;
+        }
+        
+
+ }
+ @media screen and(max-width:1024px) {
+    .img{
+        width:220px;
+    }
+    .optimg{
+        /* background-size: cover; */
+        /* border: 1px solid red; */
+        /* margin-left: 30px; */
+    }
+ }
+
+  @media screen and (max-width:575px) {
+        .card{
+            width:80%;
+            /* border: 8px solid purple; */
+            /* align-items: center; */
+
+        }
+        .card-group{
+            width:50%;
+            height:550px;
+            /* border: 1px solid red; */
+            margin: 0 auto;
+        }
+        .hello5{
+
+            /* margin-top: 40px; */
+            /* padding-top: 25px; */
+            box-shadow:none;
+        }
+        .hero1{
+            /* border:1px solid yellowgreen; */
+             text-align: center;
+        }
+
+  }
+  @media screen and (max-width:576px) {
+
+    .hello8{
+        padding-top: 220px;
+        /* margin-top: 92%; */
+        /* /* border:1px solid red; */
+        /* background-color: blueviolet; */
+    }
+    .discovermore{
+        width:30%;
+    }
+  }
+ @media screen and(max-width:425px) {
+    
+    .booknow{
+    color:black; background-color: white;
+    width:35%;height:70px;
+    }
+    .discovermore{
+        width:30%;
+    }
+    .have1{
+        border: 1px solid rgb(196, 12, 67);
+        /* width:65%; */
+        width:25%;
+        height:30px;
+    }
+ }
+
+ @media screen and(max-width:350px) {
+    .navbar-brand{
+        float: left;
+        padding : 0px;
+    }
+     .btn{
+        padding: 0px;
+        width: 30%;
+    }
+    .discovermore{
+        width:30%;
+    }
+    
+
+ }
+ @media screen and (max-width:375px )and (min-width:320px){
+    .img{
+        width: 280px;
+    }
+
+ }
+@media screen and (max-width:320px){
+    .img{
+        width: 250px;
+    }
+    .discovermore{
+        width:40%;
+        height: 60px;
+    }
+
+ }
+
+ @media  screen and (max-width:1440px) {
+    .card-group{
+        width:75%;
+        margin: auto;
+        /* border:1px solid greeen; */
+    }
+    .banner1{
+        width:70%;
+        margin: auto;
+    }
+    .bus1{
+        /* width: 90%; */
+        /* border: 1px solid red; */
+      }
+    
+ }
