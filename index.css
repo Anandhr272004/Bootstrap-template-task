@@ -419,7 +419,7 @@
 
 }
 .emailsend{
-    display: inline-block;
+    /* display: inline-block; */
     width:19%;
     height:39px;
     /* font-size: 20px; */
