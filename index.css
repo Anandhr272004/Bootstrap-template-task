@@ -292,10 +292,13 @@
 
 
 }
+.f1{
+    padding-left: 60px;
+}
 .visu1{
     font-size:300%;
     color:black;
-    padding-right: 98px;
+    /* padding-right: 98px; */
 }
 .visu2{
     font-size:300%;
