@@ -46,7 +46,7 @@
 .button{
     margin: 0%;
 }
-.booknow{
+/* .booknow{
     color:black;
      background-color: white;
     width:25%;height:7%;
@@ -55,8 +55,18 @@
     border: 1px solid white;
     border-radius: 7px;
     font-size:medium;
-    /* margin-left: 38px; */
-}
+    
+} */
+ .nowbook{
+    color:black;
+     background-color: white;
+    width:25%;height:7%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:200;
+    border: 1px solid white;
+    border-radius: 7px;
+    font-size:medium;
+ }
 .trusted{
     text-align: center;
     padding-top: 60px;
@@ -157,7 +167,7 @@
     height:48px;
     /* border:1px solid red; */
     padding-left: 20px;
-    background-color: rgb(196,12,67);
+    /* background-color: rgb(196,12,67); */
     border-radius: 3px;
 }
 .about3{
@@ -226,8 +236,8 @@
   } */
 
   .abt3{
-        height:40px;
-        width:90%;
+        height:45px;
+        width:30%;
         text-align: center;
         border-radius: 7px;
         background-color: rgb(196, 12, 67);
@@ -527,8 +537,8 @@
             width:25%;
         }
         .abt3{
-            height:40px;
-            /* width:100%; */
+            height:45px;
+            width:40%;
             text-align: center;
             border-radius: 7px;
             background-color: rgb(196, 12, 67);
@@ -537,8 +547,17 @@
             font-family: Arial, Helvetica, sans-serif;
          
       }
-      .discover1{
-        width: 60%;
+      .dis2{
+        width:29%;
+      }
+      .Learn1{
+        width:35%;
+        height:35px;
+        border-radius: none;
+      }
+      .nowbook{
+        height:27px;
+        width:35%;
       }
     }
  
@@ -592,9 +611,7 @@
     color:black; background-color: white;
     width:35%;height:70px;
     }
-    .discovermore{
-        width:30%;
-    }
+  
     .have1{
         border: 1px solid rgb(196, 12, 67);
         /* width:65%; */
@@ -603,6 +620,14 @@
     }
     .discover1{
         width: 25%;
+    }
+    .abn3{
+        width: 20%;
+        height:40px;
+    }
+    .nowbook{
+        width:20%;
+        height:28px;
     }
  }
 
@@ -624,6 +649,9 @@
  @media screen and (max-width:375px )and (min-width:320px){
     .img{
         width: 280px;
+    }
+    .abt3{
+        width:50%;
     }
 
  }
