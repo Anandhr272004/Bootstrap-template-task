@@ -240,7 +240,7 @@
   } */
 
   .abt3{
-        height:45px;
+        height:39px;
         width:30%;
         text-align: center;
         border-radius: 7px;
@@ -563,18 +563,18 @@
             width:25%;
         }
         .abt3{
-            height:45px;
+            height:35px;
             width:40%;
-            text-align: center;
+            /* text-align: center;
             border-radius: 7px;
             background-color: rgb(196, 12, 67);
             color: white;
             border: 1px solid rgb(196,12,67);
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: Arial, Helvetica, sans-serif; */
          
       }
       .dis2{
-        width:29%;
+        width:25%;
       }
       .Learn1{
         width:35%;
@@ -684,7 +684,7 @@
         width: 280px;
     }
     .abt3{
-        width:50%;
+        width:45%;
     }
 
  }
