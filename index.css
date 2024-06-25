@@ -153,7 +153,8 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 .discover1{
-    width:30%;
+    width:45%;
+    height:48px;
     /* border:1px solid red; */
     padding-left: 20px;
     background-color: rgb(196,12,67);
@@ -214,7 +215,7 @@
     background-color: rgb(196, 12, 67);
     border-radius: 10px;
   }
-  .discovermore{
+  /* .discovermore{
     width:25%;
     height:40px;
     border-radius: 7px;
@@ -222,6 +223,18 @@
     color: white;
     border: 1px solid rgb(196,12,67);
     font-family: Arial, Helvetica, sans-serif;
+  } */
+
+  .abt3{
+        height:40px;
+        width:90%;
+        text-align: center;
+        border-radius: 7px;
+        background-color: rgb(196, 12, 67);
+        color: white;
+        border: 1px solid rgb(196,12,67);
+        font-family: Arial, Helvetica, sans-serif;
+     
   }
   .pro3{
     box-shadow:  2px 2px 2px gray;
@@ -231,9 +244,7 @@
     height: 150px;
     /* border: 1px solid red; */
   }
-  .sidecols{
-    /* border: 1px solid blueviolet; */
-  }
+ 
   .pro4{
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -482,12 +493,12 @@
     .sec1{
             height:720px;
     }
-    .discover1{
+    /* .discover1{
         width:37%;
-        /* border:1px solid red; */
+        border:1px solid red;
         padding-left: 20px;
         background-color: rgb(196,12,67);
-    }
+    } */
     .about3{
         width:80%;
         margin: auto;
@@ -515,18 +526,27 @@
             border: 1px solid rgb(196, 12, 67);
             width:25%;
         }
-        
-
- }
+        .abt3{
+            height:40px;
+            /* width:100%; */
+            text-align: center;
+            border-radius: 7px;
+            background-color: rgb(196, 12, 67);
+            color: white;
+            border: 1px solid rgb(196,12,67);
+            font-family: Arial, Helvetica, sans-serif;
+         
+      }
+      .discover1{
+        width: 60%;
+      }
+    }
+ 
  @media screen and(max-width:1024px) {
     .img{
         width:220px;
     }
-    .optimg{
-        /* background-size: cover; */
-        /* border: 1px solid red; */
-        /* margin-left: 30px; */
-    }
+    
  }
 
   @media screen and (max-width:575px) {
@@ -580,6 +600,9 @@
         /* width:65%; */
         width:25%;
         height:30px;
+    }
+    .discover1{
+        width: 25%;
     }
  }
 
