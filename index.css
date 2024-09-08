@@ -600,10 +600,7 @@
   @media screen and (max-width:576px) {
 
     .hello8{
-        padding-top: 220px;
-        /* margin-top: 92%; */
-        /* /* border:1px solid red; */
-        /* background-color: blueviolet; */
+        padding-top: 60px;
     }
     .discovermore{
         width:30%;
