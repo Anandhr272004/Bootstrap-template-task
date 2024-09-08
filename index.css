@@ -82,10 +82,7 @@
 }
 .card-group{
     height:95px;
-    /* border:1px solid purple; */
     padding-left: 15px;
-    /* border: 2px solid green; */
-    /* border:1px solid red; */
 }
 .card-img-top{
     width: 70%;
@@ -504,12 +501,6 @@
     .sec1{
             height:720px;
     }
-    /* .discover1{
-        width:37%;
-        border:1px solid red;
-        padding-left: 20px;
-        background-color: rgb(196,12,67);
-    } */
     .about3{
         width:80%;
         margin: auto;
